@@ -1,0 +1,5 @@
+redditDE/
+config/
+*.env
+/logs/
+__pycache__
